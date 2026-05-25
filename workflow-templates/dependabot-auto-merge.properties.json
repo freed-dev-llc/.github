@@ -1,0 +1,5 @@
+{
+  "name": "Dependabot Auto-Merge",
+  "description": "Auto-approve and merge non-major Dependabot PRs via the freed-dev-llc reusable workflow. Requires the DEPENDABOT_AUTOMERGE_TOKEN Dependabot org secret scoped to this repo.",
+  "categories": ["Automation"]
+}
